@@ -1,11 +1,11 @@
 # Color-Game
 An interesting color game written in HTML, CSS and Javascript
 
-[Try IT!](https://jadez.me/Projects/ColorGame/index.html)
+[TRY IT NOW !](https://jadez.me/Projects/ColorGame/index.html)
 
-## COLORS!
+## Rules
 
-Select the color according to the prompt 
+Select the correct RGB encoded color according to the prompt 
 
 ![game](thumbs/game.png)
 
