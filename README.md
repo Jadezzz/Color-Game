@@ -1,7 +1,7 @@
 # Color-Game
 An interesting color game written in HTML, CSS and Javascript
 
-
+[Try IT!](https://jadez.me/Projects/ColorGame/index.html)
 
 ## COLORS!
 
